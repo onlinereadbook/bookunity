@@ -7,12 +7,13 @@
 ### [其他線上讀書會](http://goo.gl/mQbjWw)
 
 ### [入門網站參考]
-
-### [共筆故事接龍](http://goo.gl/qaK5eu)
-
 https://www.youtube.com/watch?v=afXbzUDYsGg&list=PL4czuZwtEBowj3boYrTGVXcCvUpIr4FkR
 https://www.youtube.com/watch?v=NL3nYvZI7KQ
 
+
+git教學很清楚的教學
+
+https://www.youtube.com/watch?v=sEloF3SzGI8 （來源取自 laradebut )
 
 會友幫幫忙活動
 
