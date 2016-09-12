@@ -7,6 +7,6 @@
 [9/4 很高興今天專業企劃 Mizu-Ark 教大家怎樣用google共筆,第一次用這個東西感覺很酷,很快的大家就把自己的概念都寫上去了,這是一個長跑計畫,還沒參加嗎快來吧](https://docs.google.com/document/d/19KYP2vRUGZldPqxqyH7ug-bQNuJMbQvaObVW3twvsY0/edit)
 
 
-[第1章 思元大大的主講,思元大大用輕快的腳步來幫大解釋2d動畫篇,讓大家很快地進入2d的世界,2d一般的玩法有兩種一種是很多圖片,然後使用圖片置換的方式,另外一種事自己把身體組合起來,這次介紹的是第一種用法](https://youtu.be/yZ5hAKWQ7ZU)
+[9/9 第1章 思元大大的主講,思元大大用輕快的腳步來幫大解釋2d動畫篇,讓大家很快地進入2d的世界,2d一般的玩法有兩種一種是很多圖片,然後使用圖片置換的方式,另外一種事自己把身體組合起來,這次介紹的是第一種用法](https://youtu.be/yZ5hAKWQ7ZU)
 
-[三爺素材靈魂石注入,歡迎大家來用三爺的角色來擴充想像共筆接龍,日後的練習與共筆也可以用這個來練習嚕,太申Ｑ三爺了](https://lookaside.fbsbx.com/file/rawimage.rar?token=AWzeSHxaltMhjm7Gjunr6gkMZRcucGjKaOiXw-QIeV8fxfkJGKgEjX5jca0u-XyWSEOH21RlLlsdP54Qr1Qai7_nBsjfkYXQnA-NJCunGNURg0VWLIJqcdMr5dkjgMB2Yl1lEcQTEoxHo0ErEaXPcfgcn2QmQ_cBen364kSWbdNFiqMlfNKQelbPlqENSkFQiSo)
+[9/10 三爺素材靈魂石注入,歡迎大家來用三爺的角色來擴充想像共筆接龍,日後的練習與共筆遊戲也可以用這個來練習嚕,太申Ｑ三爺了](https://lookaside.fbsbx.com/file/rawimage.rar?token=AWzeSHxaltMhjm7Gjunr6gkMZRcucGjKaOiXw-QIeV8fxfkJGKgEjX5jca0u-XyWSEOH21RlLlsdP54Qr1Qai7_nBsjfkYXQnA-NJCunGNURg0VWLIJqcdMr5dkjgMB2Yl1lEcQTEoxHo0ErEaXPcfgcn2QmQ_cBen364kSWbdNFiqMlfNKQelbPlqENSkFQiSo)
