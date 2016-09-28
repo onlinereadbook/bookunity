@@ -1,59 +1,14 @@
+# 讀書會過往影片及討論
+# Unity
+|主題| 主講者 | 章節 | 連結 | 討論區 |
+| ------| ------ | ------ | :------: | :------: |
+| Unity Platformer 2D: Character Animations | 王思元 | 1 | [[簡報](https://docs.google.com/presentation/d/1izJ8POcmN1WSrzkQgwZ32EdERUk4PnPl4fo7wDHFlLY/edit#slide=id.p)][[影片](https://www.youtube.com/watch?v=yZ5hAKWQ7ZU&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookunity/issues/2)] |
+| NGUI入門 | 山海子 | 2 | [[影片](https://drive.google.com/file/d/0B5TQWPMizi8yRXl2M0VDaVpyT3M/view)] | [[傳送門](https://github.com/onlinereadbook/bookunity/issues/3)] |
+| 玩轉 DoTween 效果 | 古明弘 | 3 | [[影片](https://www.youtube.com/watch?v=jbYXTLcgmYQ&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookunity/issues/4)] |
+| 從 git 入門到團隊合作 | 黃彥銘 | 4 |[[簡報](https://www.slideshare.net/secret/retavuvmp0Vbun)] [[影片](https://www.youtube.com/watch?v=DqYJwg6dvJo&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookunity/issues/5)] |
+| 物理模擬引擎 - 骨牌連鎖反應機關 | 林志忠 | 5 | [[影片](https://www.youtube.com/watch?v=1_ob4HVlaHQ)] | [[傳送門](https://github.com/onlinereadbook/bookunity/issues/6)] |
 
 
-
-
-
-=======================================================================================
-20160909 Unity Platformer 2D: Character Animations 王思元
-https://www.youtube.com/watch?v=yZ5hAKWQ7ZU&feature=youtu.be
-ppt 
-https://docs.google.com/presentation/d/1izJ8POcmN1WSrzkQgwZ32EdERUk4PnPl4fo7wDHFlLY/edit#slide=id.p
-
-補充 陳默司
-2015.05.20 耕莘專校數媒科 Unity Chan 2D 教學 胡亂說・隨便寫
-https://www.youtube.com/watch?v=IyougrzCqHw&index=1&list=PLFecYomVW2tXqItMCcokiv6K6O-SXY9JS
-Unity-Chan 2D 素材 
-http://unity-chan.com/download/releaseNote.php?id=CogenCityAllStarsPortraitsVol1&lang=en
-http://unity-chan.com/download/releaseNote.php?id=UnityChanPixelArtPackVol2&lang=en
-http://unity-chan.com/download/releaseNote.php?id=UnityChan2D&lang=en
-
-
-=======================================================================================
-20160916 NGUI入門 山海子
-https://drive.google.com/file/d/0B5TQWPMizi8yRXl2M0VDaVpyT3M/view
-DOTween 入門 古明弘
-https://www.youtube.com/watch?v=jbYXTLcgmYQ&feature=youtu.be
-
-補充 蘇禧鑫
-(降躁版)松柏園上課 NGUI講解 2015 04 27
-https://vimeo.com/channels/910722/126219207
-Unity项目中UI同学需知的程序相关要点
-http://www.jianshu.com/p/5a11073e2b77
-
-補充 古明弘 
-iTween, HOTween, DOTween, LeanTween 不專業比較
-http://home.gamer.com.tw/creationDetail.php?sn=2857001
-=======================================================================================
-20160921 git入門到團隊合作 黃彥銘
-https://www.youtube.com/watch?v=DqYJwg6dvJo&feature=youtu.be
-ppt
-https://www.slideshare.net/secret/retavuvmp0Vbun
-
-補充 紀相安 
-[git 教學影片推薦篇]
-https://www.youtube.com/watch?v=sEloF3SzGI8
-看過講得最好的一篇,很推
-
-補充 謝仁祥 
-Git 學習筆記 (2)：30 天精通 Git 版本控管
-http://blog.miniasp.com/post/2013/11/03/Learning-Git-Part-2-Master-Git-in-30-days.aspx
-
-========================================================================================
-20160923 Unity 物理模擬引擎心得分享 林志忠 (Alex Chih Chung Lin)
-https://www.youtube.com/watch?v=1_ob4HVlaHQ
-
-第五章物理模擬引擎練習project
-https://goo.gl/qmb5oB
 
 
 
