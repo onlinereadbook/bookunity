@@ -7,11 +7,11 @@
 【遊戲開發引擎】Unity3D
 <br>[https://store.unity.com/cn](https://store.unity.com/cn)
 
-【線上開會軟體】Zoom
-<br>[https://zoom.us/](https://zoom.us/)
-
 【遊戲開發引擎】UNREAL
 <br>[https://www.unrealengine.com/dashboard](https://www.unrealengine.com/dashboard)
+
+【線上開會軟體】Zoom
+<br>[https://zoom.us/](https://zoom.us/)
 
 【Git】Git
 <br>[https://git-scm.com/downloads](https://git-scm.com/downloads)
@@ -27,6 +27,18 @@
 
 【Git】GitLab
 <br>[https://about.gitlab.com/](https://about.gitlab.com/)
+
+【MarkDown】HackMD
+<br>[https://hackmd.io/](https://hackmd.io/)
+
+【MarkDown】MarkdownPad
+<br>[http://markdownpad.com/download.html](http://markdownpad.com/download.html)
+
+【MarkDown】haroopad
+<br>[http://pad.haroopress.com/](http://pad.haroopress.com/)
+
+【MarkDown】Markdown Editor for Windows 10
+<br>[https://www.microsoft.com/zh-tw/store/p/markdown-editor/9wzdncrdd2p3](https://www.microsoft.com/zh-tw/store/p/markdown-editor/9wzdncrdd2p3)
 
 <br>
 
@@ -66,6 +78,16 @@
 <br>Facebook：[https://www.facebook.com/groups/956973084383781/](https://www.facebook.com/groups/956973084383781/)
 <br>GitHub：[https://github.com/onlinereadbook/booklaravel](https://github.com/onlinereadbook/booklaravel)
 
+【線上 angularjs 讀書會】
+<br>Facebook：[https://www.facebook.com/groups/1345890212093830/](https://www.facebook.com/groups/1345890212093830/)
+<br>GitHub：[https://github.com/onlinereadbook/bookangularjs](https://github.com/onlinereadbook/bookangularjs)
+
+【線上 go 讀書會】
+<br>Facebook：[https://www.facebook.com/groups/1288435607857868/](https://www.facebook.com/groups/1288435607857868/)
+
+【線上 StrongLoop 讀書會】
+<br>Facebook：[https://www.facebook.com/groups/568032146690485/](https://www.facebook.com/groups/568032146690485/)
+
 【線上英文讀書會】
 <br>Facebook：[https://www.facebook.com/groups/1781798848754929/](https://www.facebook.com/groups/1781798848754929/)
 
@@ -87,6 +109,15 @@
 
 【天瓏書局書局連結】書籍介紹
 <br>[https://www.tenlong.com.tw/items/9863123552?item_id=1022450](https://www.tenlong.com.tw/items/9863123552?item_id=1022450)
+
+<br>
+
+## Markdown 簡介以 HackMD 為例
+> 日期：2016/05/19
+> <br>主講：jacky
+
+【錄影（Youtube）】markdown 簡介以 hackmd 為例 - softnshare.slack.com ES6 線上讀書會直播錄影內容
+<br>[https://youtu.be/8maKJ6CJ9no](https://youtu.be/8maKJ6CJ9no)
 
 <br>
 
@@ -318,12 +349,11 @@ DoTween Pro 才有的路徑規劃功能介紹
 【投影片】
 <br>[https://www.slideshare.net/secret/retavuvmp0Vbun](https://www.slideshare.net/secret/retavuvmp0Vbun)
 
-【彥銘大團隊粉絲團】
-<br>[https://www.facebook.com/IDvanceS/?hc_location=ufi](https://www.facebook.com/IDvanceS/?hc_location=ufi)
-
 【Facebook 會後心得分享】
 <br>[https://www.facebook.com/groups/1606498833013546/permalink/1645757422421020/](https://www.facebook.com/groups/1606498833013546/permalink/1645757422421020/)
 
+【彥銘大團隊粉絲團】
+<br>[https://www.facebook.com/IDvanceS/?hc_location=ufi](https://www.facebook.com/IDvanceS/?hc_location=ufi)
 
 【相關參考（Youtube）】Laradebut #3 從 git 入門到團隊合作開發 - Mouson & Duncan
 <br>[https://youtu.be/sEloF3SzGI8](https://youtu.be/sEloF3SzGI8)
@@ -353,14 +383,46 @@ DoTween Pro 才有的路徑規劃功能介紹
 
 ## Shader 入門
 > 時間：2016/09/30 21:00
-> <br>主講：陳致愷
+> <br>主講：陳致愷（阿星）
+
+【錄影】
+<br>
+
+【投影片】
+<br>
+
+【Facebook 會後心得分享】
+<br>
 
 <br>
 
+## Shader 入門
+> 時間：2016/10/07 19:30
+> <br>主講：沈建佑（蛙皮）
+
+【錄影】
+<br>
+
+【投影片】
+<br>
+
+【Facebook 會後心得分享】
+<br>
+
+<br>
 
 ## 自製遊戲計時器應用於音樂遊戲範例
 > 時間：2016/10/14 20:00
-> <br>主講：
+> <br>主講：蘇禧鑫
+
+【錄影】
+<br>
+
+【投影片】
+<br>
+
+【Facebook 會後心得分享】
+<br>
 
 <br>
 
@@ -368,5 +430,14 @@ DoTween Pro 才有的路徑規劃功能介紹
 ## 如何渡過提案初期業主的幻想戰爭
 > 時間：2016/10/21
 > <br>主講：Tiger Guo
+
+【錄影】
+<br>
+
+【投影片】
+<br>
+
+【Facebook 會後心得分享】
+<br>
 
 <br>
