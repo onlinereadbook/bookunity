@@ -188,6 +188,9 @@ DoTween Pro 才有的路徑規劃功能介紹
 【★ GitHub Issue 會後心得分享及新手發問區】
 <br>
 
+【相關參考】楊智傑老師：Unity Shader教學:Unity ShaderLab簡介 part1
+<br>[http://www.slideshare.net/ElvataHsu/unity-shaderlab-part1](http://www.slideshare.net/ElvataHsu/unity-shaderlab-part1)
+
 <br>
 
 ## Shader 入門
