@@ -1,51 +1,133 @@
-## [09]其他線上讀書會
+## [09][其他線上讀書會傳送門]
 
 >【Google Drive 連結】「其他線上讀書會」內容更新請參考此連結
 > <br>[https://docs.google.com/spreadsheets/d/1et5J8Nt2UE5VE1JbYJtCL6UAVsqPcK9BT1SmDefSgPk/edit](https://docs.google.com/spreadsheets/d/1et5J8Nt2UE5VE1JbYJtCL6UAVsqPcK9BT1SmDefSgPk/edit)
-> <br>[http://goo.gl/mQbjWw](http://goo.gl/mQbjWw)
 
-【線上 Unity 讀書會】
-<br>Facebook：[https://www.facebook.com/groups/1606498833013546/](https://www.facebook.com/groups/1606498833013546/)
-<br>GitHub：[https://github.com/onlinereadbook/bookunity](https://github.com/onlinereadbook/bookunity)
+<!--
+<center><table style="width:100%; text-align:center; vertical-align:middle;">
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table></center>
+-->
 
-【線上 IoT 讀書會】
-<br>Facebook：[https://www.facebook.com/groups/842415582524882/](https://www.facebook.com/groups/842415582524882/)
-
-【線上 ReactJS 讀書會】
-<br>Facebook：[https://www.facebook.com/groups/906048196159262/](https://www.facebook.com/groups/906048196159262/)
-<br>GitHub：[https://github.com/onlinereadbook/bookreactjs](https://github.com/onlinereadbook/bookreactjs)
-
-【線上 NodeJS 讀書會】
-<br>Facebook：[https://www.facebook.com/groups/207139586323090/](https://www.facebook.com/groups/207139586323090/)
-<br>GitHub：[https://github.com/onlinereadbook/booknodejs](https://github.com/onlinereadbook/booknodejs)
-
-【線上 Dokcer 讀書會】
-<br>Facebook：[https://www.facebook.com/groups/750311598438135/](https://www.facebook.com/groups/750311598438135/)
-<br>GitHub：[https://github.com/onlinereadbook/bookdocker](https://github.com/onlinereadbook/bookdocker)
-
-【線上 Swift 讀書會】
-<br>Facebook：[https://www.facebook.com/groups/238948643131478/](https://www.facebook.com/groups/238948643131478/)
-<br>GitHub：[https://github.com/onlinereadbook/bookswift](https://github.com/onlinereadbook/bookswift)
-
-【線上 Laravel 讀書會】
-<br>Facebook：[https://www.facebook.com/groups/956973084383781/](https://www.facebook.com/groups/956973084383781/)
-<br>GitHub：[https://github.com/onlinereadbook/booklaravel](https://github.com/onlinereadbook/booklaravel)
-
-【線上 angularjs 讀書會】
-<br>Facebook：[https://www.facebook.com/groups/1345890212093830/](https://www.facebook.com/groups/1345890212093830/)
-<br>GitHub：[https://github.com/onlinereadbook/bookangularjs](https://github.com/onlinereadbook/bookangularjs)
-
-【線上 go 讀書會】
-<br>Facebook：[https://www.facebook.com/groups/1288435607857868/](https://www.facebook.com/groups/1288435607857868/)
-
-【線上 StrongLoop 讀書會】
-<br>Facebook：[https://www.facebook.com/groups/568032146690485/](https://www.facebook.com/groups/568032146690485/)
-
-【線上英文讀書會】
-<br>Facebook：[https://www.facebook.com/groups/1781798848754929/](https://www.facebook.com/groups/1781798848754929/)
-
-【線上日文讀書會】
-<br>Facebook：[https://www.facebook.com/groups/1113446758690591/](https://www.facebook.com/groups/1113446758690591/)
+<center><table style="width:80%; text-align:center; vertical-align:middle;">
+<tr>
+<!------------------------------------------------------>
+<th style="width:20%;">								</th>
+<th style="width:20%;">線上讀書會					</th>
+<th style="width:20%;">GitHub						</th>
+<th style="width:20%;">進行時間						</th>
+<!------------------------------------------------------>
+</tr>
+<tr>
+<!------------------------------------------------------>
+<td>ReactJS											</td>
+<td>[線上 ReactJS 讀書會](https://www.facebook.com/groups/906048196159262/)	</td>
+<td>[bookreactjs](https://github.com/onlinereadbook/bookreactjs)			</td>
+<td>週一<br>A 組：20:00<br>B 組：21:00				</td>
+<!------------------------------------------------------>
+</tr>
+<tr>
+<!------------------------------------------------------>
+<td>NodeJS											</td>
+<td>[線上 NodeJS 讀書會](https://www.facebook.com/groups/207139586323090/)	</td>
+<td>[booknodejs](https://github.com/onlinereadbook/booknodejs)				</td>
+<td>週二 19:30										</td>
+<!------------------------------------------------------>
+</tr>
+<tr>
+<!------------------------------------------------------>
+<td>Dokcer											</td>
+<td>[線上 Dokcer 讀書會](https://www.facebook.com/groups/750311598438135/)	</td>
+<td>[bookdocker](https://github.com/onlinereadbook/bookdocker)				</td>
+<td>週三												</td>
+<!------------------------------------------------------>
+</tr>
+<tr>
+<!------------------------------------------------------>
+<td>Swift											</td>
+<td>[線上 Swift 讀書會](https://www.facebook.com/groups/238948643131478/)	</td>
+<td>[bookswift](https://github.com/onlinereadbook/bookswift)				</td>
+<td>週四 20:00										</td>
+<!------------------------------------------------------>
+</tr>
+<tr>
+<!------------------------------------------------------>
+<td>Laravel											</td>
+<td>[線上 Laravel 讀書會](https://www.facebook.com/groups/956973084383781/)	</td>
+<td>[booklaravel](https://github.com/onlinereadbook/booklaravel)			</td>
+<td rowspan="2">週五 19:30										</td>
+<!------------------------------------------------------>
+</tr>
+<tr>
+<!------------------------------------------------------>
+<td>Unity3D											</td>
+<td>[線上 Unity 讀書會](https://www.facebook.com/groups/1606498833013546/)	</td>
+<td>[bookunity](https://github.com/onlinereadbook/bookunity)				</td>
+<!--<td>週五 19:30										</td>-->
+<!------------------------------------------------------>
+</tr>
+<tr>
+<!------------------------------------------------------>
+<td>AngularJS										</td>
+<td>[線上 angularjs 讀書會](https://www.facebook.com/groups/1345890212093830/)</td>
+<td>[bookangularjs](https://github.com/onlinereadbook/bookangularjs)		</td>
+<td>												</td>
+<!------------------------------------------------------>
+</tr>
+<tr>
+<!------------------------------------------------------>
+<td>Go												</td>
+<td>[線上 go 讀書會](https://www.facebook.com/groups/1288435607857868/)		</td>
+<td>												</td>
+<td>												</td>
+<!------------------------------------------------------>
+</tr>
+<tr>
+<!------------------------------------------------------>
+<td>StrongLoop										</td>
+<td>[線上 StrongLoop 讀書會](https://www.facebook.com/groups/568032146690485/)</td>
+<td>												</td>
+<td>												</td>
+<!------------------------------------------------------>
+</tr>
+<tr>
+<!------------------------------------------------------>
+<td>Internet of Things								</td>
+<td>[線上 IoT 讀書會](https://www.facebook.com/groups/842415582524882/)		</td>
+<td>												</td>
+<td>												</td>
+<!------------------------------------------------------>
+</tr>
+<tr>
+<!------------------------------------------------------>
+<td>英文學習											</td>
+<td>[線上英文讀書會](https://www.facebook.com/groups/1781798848754929/)		</td>
+<td>												</td>
+<td>												</td>
+<!------------------------------------------------------>
+</tr>
+<tr>
+<!------------------------------------------------------>
+<td>日文學習											</td>
+<td>[線上日文讀書會](https://www.facebook.com/groups/1113446758690591/)		</td>
+<td>												</td>
+<td>												</td>
+<!------------------------------------------------------>
+</tr>
+<tr>
+<!------------------------------------------------------>
+<td>												</td>
+<td>												</td>
+<td>												</td>
+<td>												</td>
+<!------------------------------------------------------>
+</tr>
+</table></center>
 
 <!--
 【線上讀書會-版版的茶會】
