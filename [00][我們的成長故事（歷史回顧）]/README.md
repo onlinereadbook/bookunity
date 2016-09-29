@@ -52,32 +52,38 @@
 
 ## 線上讀書會友站
 
-【線上 Unity 讀書會】
-<br>Facebook：[https://www.facebook.com/groups/1606498833013546/](https://www.facebook.com/groups/1606498833013546/)
-<br>GitHub：[https://github.com/onlinereadbook/bookunity](https://github.com/onlinereadbook/bookunity)
-
 【線上 IoT 讀書會】
 <br>Facebook：[https://www.facebook.com/groups/842415582524882/](https://www.facebook.com/groups/842415582524882/)
 
 【線上 ReactJS 讀書會】
 <br>Facebook：[https://www.facebook.com/groups/906048196159262/](https://www.facebook.com/groups/906048196159262/)
 <br>GitHub：[https://github.com/onlinereadbook/bookreactjs](https://github.com/onlinereadbook/bookreactjs)
+讀書會時間：週一（A 組 20:00，B 組 21:00）
 
 【線上 NodeJS 讀書會】
 <br>Facebook：[https://www.facebook.com/groups/207139586323090/](https://www.facebook.com/groups/207139586323090/)
 <br>GitHub：[https://github.com/onlinereadbook/booknodejs](https://github.com/onlinereadbook/booknodejs)
+讀書會時間：週二 19:30
 
 【線上 Dokcer 讀書會】
 <br>Facebook：[https://www.facebook.com/groups/750311598438135/](https://www.facebook.com/groups/750311598438135/)
 <br>GitHub：[https://github.com/onlinereadbook/bookdocker](https://github.com/onlinereadbook/bookdocker)
+讀書會時間：週三
 
 【線上 Swift 讀書會】
 <br>Facebook：[https://www.facebook.com/groups/238948643131478/](https://www.facebook.com/groups/238948643131478/)
 <br>GitHub：[https://github.com/onlinereadbook/bookswift](https://github.com/onlinereadbook/bookswift)
+讀書會時間：週四 20:00
 
 【線上 Laravel 讀書會】
 <br>Facebook：[https://www.facebook.com/groups/956973084383781/](https://www.facebook.com/groups/956973084383781/)
 <br>GitHub：[https://github.com/onlinereadbook/booklaravel](https://github.com/onlinereadbook/booklaravel)
+讀書會時間：週五 19:30
+
+【線上 Unity 讀書會】
+<br>Facebook：[https://www.facebook.com/groups/1606498833013546/](https://www.facebook.com/groups/1606498833013546/)
+<br>GitHub：[https://github.com/onlinereadbook/bookunity](https://github.com/onlinereadbook/bookunity)
+讀書會時間：週五 19:30
 
 【線上 angularjs 讀書會】
 <br>Facebook：[https://www.facebook.com/groups/1345890212093830/](https://www.facebook.com/groups/1345890212093830/)
@@ -119,10 +125,24 @@
 > 日期：2016/05/19
 > <br>主講：jacky
 
-【錄影（Youtube）】markdown 簡介以 hackmd 為例 - softnshare.slack.com ES6 線上讀書會直播錄影內容
+【影片】markdown 簡介以 hackmd 為例 - softnshare.slack.com ES6 線上讀書會直播錄影內容
 <br>[https://youtu.be/8maKJ6CJ9no](https://youtu.be/8maKJ6CJ9no)
 
 <br>
+
+<!--
+## 用 Nodejs 打造 FB 天氣預報機器人
+> 日期：2016/08/16
+> <br>主講：盧承億
+
+【投影片】用 Node.js 打造 FB 天氣機器人
+<br>[https://larry850806.github.io/weather/](https://larry850806.github.io/weather/)
+
+【影片】用 Node.js 打造 FB 天氣機器人 
+<br>[https://youtu.be/c5gz5TxtEQk](https://youtu.be/c5gz5TxtEQk)
+
+<br>
+-->
 
 ## （會友回覆）線上 Unity 讀書會回覆
 > 日期：2016/08/20
@@ -226,6 +246,42 @@ Notepad++
 
 <br>
 
+<!--
+## Basic of Linux shell Command
+> 時間：2016/09/06 19:30
+> <br>主講：秉文
+
+【影片】
+<br>[https://youtu.be/FBoYiq1pbD0](https://youtu.be/FBoYiq1pbD0)
+
+【投影片】
+<br>[http://www.slideshare.net/ssuser3e0b1d/basic-of-linux-shell-command](http://www.slideshare.net/ssuser3e0b1d/basic-of-linux-shell-command)
+
+【Facebook 會後心得分享】
+<br>[https://www.facebook.com/groups/207139586323090/permalink/300113207025727/](https://www.facebook.com/groups/207139586323090/permalink/300113207025727/)
+
+<br>
+-->
+
+## 利用 Unity UGUI 製作酷炫 UI 效果
+
+> 時間：2016/09/09 20:00
+> <br>主講：張強大
+
+【影片】UI 製作大師初養成！
+<br>[http://v.qq.com/x/page/h03276cm99f.html](http://v.qq.com/x/page/h03276cm99f.html)
+
+【相關參考】直播介紹
+<br>[http://blog.uwa4d.com/archives/video_uguishow1.html](http://blog.uwa4d.com/archives/video_uguishow1.html)
+
+【相關參考】
+<br>UWA 官網：[https://www.uwa4d.com/](https://www.uwa4d.com/)
+<br>UWA Blog：[http://blog.uwa4d.com/](http://blog.uwa4d.com/)
+<br>UWA 知乎：[https://zhuanlan.zhihu.com/uwa4d](https://zhuanlan.zhihu.com/uwa4d)
+<br>UWA 微信帳號：uwatech
+
+<br>
+
 ## Unity Platformer 2D: Character Animations
 
 > 時間：2016/09/09 20:00<br>
@@ -233,14 +289,17 @@ Notepad++
 > <br>
 > 說明：思元大大的主講, 思元大大用輕快的腳步來幫大解釋 2d 動畫篇，讓大家很快地進入 2d 的世界，2d 一般的玩法有兩種一種是很多圖片，然後使用圖片置換的方式，另外一種事自己把身體組合起來，這次介紹的是第一種用法(https://youtu.be/yZ5hAKWQ7ZU)
 
-【投影片（Google Drive）】Unity Platformer 2D: Character Animations
+【投影片】Unity Platformer 2D: Character Animations
 <br>[https://docs.google.com/presentation/d/1izJ8POcmN1WSrzkQgwZ32EdERUk4PnPl4fo7wDHFlLY/edit#slide=id.p](https://docs.google.com/presentation/d/1izJ8POcmN1WSrzkQgwZ32EdERUk4PnPl4fo7wDHFlLY/edit#slide=id.p)
 
-【錄影（Youtube）】Unity Platformer 2D: Character Animations
+【影片】Unity Platformer 2D: Character Animations
 <br>[https://youtu.be/yZ5hAKWQ7ZU](https://youtu.be/yZ5hAKWQ7ZU)
 
-【Facebook 會後心得分享】
-[https://www.facebook.com/groups/1606498833013546/permalink/1639379399725489/](https://www.facebook.com/groups/1606498833013546/permalink/1639379399725489/)
+【★ GitHub Issue 會後心得分享及新手發問區】
+<br>[https://github.com/onlinereadbook/bookunity/issues/2](https://github.com/onlinereadbook/bookunity/issues/2)
+
+【Facebook 會後心得分享（封存 - 不再更新）】
+<br>[https://www.facebook.com/groups/1606498833013546/permalink/1639379399725489/](https://www.facebook.com/groups/1606498833013546/permalink/1639379399725489/)
 
 【相關參考（Youtube）】Unity 醬2D EP1 - 設定標題與介面
 <br>[https://youtu.be/afXbzUDYsGg](https://youtu.be/afXbzUDYsGg)
@@ -274,7 +333,7 @@ Notepad++
 > 時間：2016/09/11
 > <br>主講：Leo
 
-【錄影】[ 鴨仔開發日記 ] Unity 開發實境 - Rocket #1
+【影片】[ 鴨仔開發日記 ] Unity 開發實境 - Rocket #1
 <br>[https://youtu.be/dSSPBcvMFIU](https://youtu.be/dSSPBcvMFIU)
 
 <br>
@@ -283,10 +342,13 @@ Notepad++
 > 時間：2016/09/16 19:30
 > <br>主講：山海子
 
-【錄影（Google Drive）】NGUI 入門_山海子.mp4
+【影片】NGUI 入門_山海子.mp4
 <br>[https://drive.google.com/file/d/0B5TQWPMizi8yRXl2M0VDaVpyT3M/view](https://drive.google.com/file/d/0B5TQWPMizi8yRXl2M0VDaVpyT3M/view)
 
-【Facebook 會後心得分享】
+【★ GitHub Issue 會後心得分享及新手發問區】
+<br>[https://github.com/onlinereadbook/bookunity/issues/3](https://github.com/onlinereadbook/bookunity/issues/3)
+
+【Facebook 會後心得分享（封存 - 不再更新）】
 <br>[https://www.facebook.com/groups/1606498833013546/permalink/1643050146025081/](https://www.facebook.com/groups/1606498833013546/permalink/1643050146025081/)
 
 【Unity Asset Store】NGUI: Next-Gen UI
@@ -313,10 +375,13 @@ Notepad++
 > 時間：2016/09/16 21:00
 > <br>主講：古明弘
 
-【錄影（Youtube）】線上Unity 讀書會--DOTween 入門
+【影片】線上Unity 讀書會--DOTween 入門
 <br>[https://youtu.be/jbYXTLcgmYQ](https://youtu.be/jbYXTLcgmYQ)
 
-【Facebook 會後心得分享】
+【★ GitHub Issue 會後心得分享及新手發問區】
+<br>[https://github.com/onlinereadbook/bookunity/issues/4](https://github.com/onlinereadbook/bookunity/issues/4)
+
+【Facebook 會後心得分享（封存 - 不再更新）】
 <br>[https://www.facebook.com/groups/1606498833013546/permalink/1643050146025081/](https://www.facebook.com/groups/1606498833013546/permalink/1643050146025081/)
 
 動畫補間插件 DoTween 官網
@@ -346,13 +411,16 @@ DoTween Pro 才有的路徑規劃功能介紹
 > 時間：2016/09/21 20:00
 > <br>主講：黃彥銘
 
-【錄影】20160921 git 入門到團隊合作
+【影片】20160921 git 入門到團隊合作
 <br>[https://youtu.be/DqYJwg6dvJo](https://youtu.be/DqYJwg6dvJo)
 
 【投影片】
 <br>[https://www.slideshare.net/secret/retavuvmp0Vbun](https://www.slideshare.net/secret/retavuvmp0Vbun)
 
-【Facebook 會後心得分享】
+【★ GitHub Issue 會後心得分享及新手發問區】
+<br>[https://github.com/onlinereadbook/bookunity/issues/5](https://github.com/onlinereadbook/bookunity/issues/5)
+
+【Facebook 會後心得分享（封存 - 不再更新）】
 <br>[https://www.facebook.com/groups/1606498833013546/permalink/1645757422421020/](https://www.facebook.com/groups/1606498833013546/permalink/1645757422421020/)
 
 【彥銘大團隊粉絲團】
@@ -373,10 +441,13 @@ DoTween Pro 才有的路徑規劃功能介紹
 > 時間：2016/09/23
 > <br>主講：Alex Chih Chung Lin
 
-【錄影】Unity 讀書會 - Unity 物理模擬引擎心得分享
+【影片】Unity 讀書會 - Unity 物理模擬引擎心得分享
 <br>[https://www.youtube.com/watch?v=1_ob4HVlaHQ](https://youtu.be/1_ob4HVlaHQ)
 
-【Facebook 會後心得分享】
+【★ GitHub Issue 會後心得分享及新手發問區】
+<br>[https://github.com/onlinereadbook/bookunity/issues/6](https://github.com/onlinereadbook/bookunity/issues/6)
+
+【Facebook 會後心得分享（封存 - 不再更新）】
 <br>[https://www.facebook.com/groups/1606498833013546/permalink/1646717055658390/](https://www.facebook.com/groups/1606498833013546/permalink/1646717055658390/)
 
 線上讀書會-第五章物理模擬引擎練習 project
@@ -384,17 +455,48 @@ DoTween Pro 才有的路徑規劃功能介紹
 
 <br>
 
+<!--
+## NodeJS 在 IoT 的應用
+> 時間：2016/09/20 19:30
+> <br>主講：IBM 首席雲端架構師 吳志忠
+
+【影片】
+<br>[https://youtu.be/9BM5OVWrlek](https://youtu.be/9BM5OVWrlek)
+
+【Facebook 會後心得分享】
+<br>[https://www.facebook.com/groups/207139586323090/permalink/307565789613802/](https://www.facebook.com/groups/207139586323090/permalink/307565789613802/)
+
+<br>
+-->
+
+<!--
+## Node-red IoT 應用 - Lora
+> 時間：2016/09/27 19:30
+> <br>主講：jouan
+
+【影片】
+<br>[https://youtu.be/fsPvMrT-daI](https://youtu.be/fsPvMrT-daI)
+
+【Facebook 會後心得分享】
+<br>[https://www.facebook.com/groups/207139586323090/permalink/311405315896516/](https://www.facebook.com/groups/207139586323090/permalink/311405315896516/)
+
+【相關參考】1 taipei smart city-正文科技
+<br>[http://www.slideshare.net/Taipeismartcity/1-taipei-smart-city](http://www.slideshare.net/Taipeismartcity/1-taipei-smart-city)
+
+<br>
+-->
+
 ## Shader 入門
 > 時間：2016/09/30 21:00
 > <br>主講：陳致愷（阿星）
 
-【錄影】
+【影片】
 <br>
 
 【投影片】
 <br>[https://docs.google.com/presentation/d/1PG7e9a2y9YFi6wy5ljuNge_q1MYnXCe1_LZCRxwnua0/edit#slide=id.g16a6727905_0_8](https://docs.google.com/presentation/d/1PG7e9a2y9YFi6wy5ljuNge_q1MYnXCe1_LZCRxwnua0/edit#slide=id.g16a6727905_0_8)
 
-【Facebook 會後心得分享】
+【★ GitHub Issue 會後心得分享及新手發問區】
 <br>
 
 <br>
@@ -403,13 +505,13 @@ DoTween Pro 才有的路徑規劃功能介紹
 > 時間：2016/10/07 19:30
 > <br>主講：沈建佑（蛙皮）
 
-【錄影】
+【影片】
 <br>
 
 【投影片】
 <br>
 
-【Facebook 會後心得分享】
+【★ GitHub Issue 會後心得分享及新手發問區】
 <br>
 
 <br>
@@ -418,13 +520,13 @@ DoTween Pro 才有的路徑規劃功能介紹
 > 時間：2016/10/14 20:00
 > <br>主講：蘇禧鑫
 
-【錄影】
+【影片】
 <br>
 
 【投影片】
 <br>
 
-【Facebook 會後心得分享】
+【★ GitHub Issue 會後心得分享及新手發問區】
 <br>
 
 <br>
@@ -434,13 +536,13 @@ DoTween Pro 才有的路徑規劃功能介紹
 > 時間：2016/10/21
 > <br>主講：Tiger Guo
 
-【錄影】
+【影片】
 <br>
 
 【投影片】
 <br>
 
-【Facebook 會後心得分享】
+【★ GitHub Issue 會後心得分享及新手發問區】
 <br>
 
 <br>

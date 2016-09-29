@@ -6,7 +6,7 @@
 > 時間：2016/05/19
 > <br>主講：jacky
 
-【錄影（Youtube）】markdown 簡介以 hackmd 為例 - softnshare.slack.com ES6 線上讀書會直播錄影內容
+【影片】markdown 簡介以 hackmd 為例 - softnshare.slack.com ES6 線上讀書會直播錄影內容
 <br>[https://youtu.be/8maKJ6CJ9no](https://youtu.be/8maKJ6CJ9no)
 
 <br>
@@ -18,10 +18,10 @@
 > <br>
 > 說明：思元大大的主講, 思元大大用輕快的腳步來幫大解釋 2d 動畫篇，讓大家很快地進入 2d 的世界，2d 一般的玩法有兩種一種是很多圖片，然後使用圖片置換的方式，另外一種事自己把身體組合起來，這次介紹的是第一種用法(https://youtu.be/yZ5hAKWQ7ZU)
 
-【投影片（Google Drive）】Unity Platformer 2D: Character Animations
+【投影片】Unity Platformer 2D: Character Animations
 <br>[https://docs.google.com/presentation/d/1izJ8POcmN1WSrzkQgwZ32EdERUk4PnPl4fo7wDHFlLY/edit#slide=id.p](https://docs.google.com/presentation/d/1izJ8POcmN1WSrzkQgwZ32EdERUk4PnPl4fo7wDHFlLY/edit#slide=id.p)
 
-【錄影（Youtube）】Unity Platformer 2D: Character Animations
+【影片】Unity Platformer 2D: Character Animations
 <br>[https://youtu.be/yZ5hAKWQ7ZU](https://youtu.be/yZ5hAKWQ7ZU)
 
 【★ GitHub Issue 會後心得分享及新手發問區】
@@ -53,7 +53,7 @@
 > 時間：2016/09/11
 > <br>主講：Leo
 
-【錄影】[ 鴨仔開發日記 ] Unity 開發實境 - Rocket #1
+【影片】[ 鴨仔開發日記 ] Unity 開發實境 - Rocket #1
 <br>[https://youtu.be/dSSPBcvMFIU](https://youtu.be/dSSPBcvMFIU)
 
 <br>
@@ -62,7 +62,7 @@
 > 時間：2016/09/16 19:30
 > <br>主講：山海子
 
-【錄影（Google Drive）】NGUI 入門_山海子.mp4
+【影片】NGUI 入門_山海子.mp4
 <br>[https://drive.google.com/file/d/0B5TQWPMizi8yRXl2M0VDaVpyT3M/view](https://drive.google.com/file/d/0B5TQWPMizi8yRXl2M0VDaVpyT3M/view)
 
 【★ GitHub Issue 會後心得分享及新手發問區】
@@ -95,7 +95,7 @@
 > 時間：2016/09/16 21:00
 > <br>主講：古明弘
 
-【錄影（Youtube）】線上Unity 讀書會--DOTween 入門
+【影片】線上Unity 讀書會--DOTween 入門
 <br>[https://youtu.be/jbYXTLcgmYQ](https://youtu.be/jbYXTLcgmYQ)
 
 【★ GitHub Issue 會後心得分享及新手發問區】
@@ -131,7 +131,7 @@ DoTween Pro 才有的路徑規劃功能介紹
 > 時間：2016/09/21 20:00
 > <br>主講：黃彥銘
 
-【錄影】20160921 git 入門到團隊合作
+【影片】20160921 git 入門到團隊合作
 <br>[https://youtu.be/DqYJwg6dvJo](https://youtu.be/DqYJwg6dvJo)
 
 【投影片】
@@ -161,7 +161,7 @@ DoTween Pro 才有的路徑規劃功能介紹
 > 時間：2016/09/23
 > <br>主講：Alex Chih Chung Lin
 
-【錄影】Unity 讀書會 - Unity 物理模擬引擎心得分享
+【影片】Unity 讀書會 - Unity 物理模擬引擎心得分享
 <br>[https://www.youtube.com/watch?v=1_ob4HVlaHQ](https://youtu.be/1_ob4HVlaHQ)
 
 【★ GitHub Issue 會後心得分享及新手發問區】
@@ -179,7 +179,7 @@ DoTween Pro 才有的路徑規劃功能介紹
 > 時間：2016/09/30 21:00
 > <br>主講：陳致愷（阿星）
 
-【錄影】
+【影片】
 <br>
 
 【投影片】
@@ -197,7 +197,7 @@ DoTween Pro 才有的路徑規劃功能介紹
 > 時間：2016/10/07 19:30
 > <br>主講：沈建佑（蛙皮）
 
-【錄影】
+【影片】
 <br>
 
 【投影片】
@@ -212,7 +212,7 @@ DoTween Pro 才有的路徑規劃功能介紹
 > 時間：2016/10/14 20:00
 > <br>主講：蘇禧鑫
 
-【錄影】
+【影片】
 <br>
 
 【投影片】
@@ -228,7 +228,7 @@ DoTween Pro 才有的路徑規劃功能介紹
 > 時間：2016/10/21
 > <br>主講：Tiger Guo
 
-【錄影】
+【影片】
 <br>
 
 【投影片】
