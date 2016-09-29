@@ -95,8 +95,10 @@
 【線上日文讀書會】
 <br>Facebook：[https://www.facebook.com/groups/1113446758690591/](https://www.facebook.com/groups/1113446758690591/)
 
+<!--
 【線上讀書會-版版的茶會】
 <br>Facebook：[https://www.facebook.com/groups/1159794610758095/](https://www.facebook.com/groups/1159794610758095/)
+-->
 
 <br>
 
