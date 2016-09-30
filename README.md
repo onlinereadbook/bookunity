@@ -3,6 +3,10 @@
 
 <br>
 
+![線上 Unity 讀書會](https://scontent-tpe1-1.xx.fbcdn.net/t31.0-8/14086255_10208922036842631_619976415949838381_o.jpg "歡迎大家加入線上 Unity 讀書會！")
+
+<br>
+
 ## [[00][我們的成長故事（歷史回顧）]](https://github.com/onlinereadbook/bookunity/tree/master/%5B00%5D%5B%E6%88%91%E5%80%91%E7%9A%84%E6%88%90%E9%95%B7%E6%95%85%E4%BA%8B%EF%BC%88%E6%AD%B7%E5%8F%B2%E5%9B%9E%E9%A1%A7%EF%BC%89%5D)
 
 ## [[01][讀書會注意事項]](https://github.com/onlinereadbook/bookunity/tree/master/%5B01%5D%5B%E8%AE%80%E6%9B%B8%E6%9C%83%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85%5D)
@@ -57,13 +61,13 @@
 <tr>
 <!------------------------------------------------------>
 <td>紀相安											</td>
-<td>[相安大 POLO](https://www.facebook.com/polo13999)</td>
+<td>[POLO 相安大](https://www.facebook.com/polo13999)</td>
 <!------------------------------------------------------>
 </tr>
 <tr>
 <!------------------------------------------------------>
 <td>林宏伯											</td>
-<td>[宏伯大 negatorism](https://www.facebook.com/negatorism/)</td>
+<td>[宏伯大](https://www.facebook.com/negatorism/)</td>
 <!------------------------------------------------------>
 </tr>
 <tr>
