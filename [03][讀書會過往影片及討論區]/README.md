@@ -69,17 +69,37 @@
 <!------------------------------------------------------>
 <td>2016/09/30 21:00</td>
 <td>Shader 入門</td>
-<td>陳致愷（阿星）</td>
+<td>陳致愷</td>
 <td>[Unity Shader](https://docs.google.com/presentation/d/1PG7e9a2y9YFi6wy5ljuNge_q1MYnXCe1_LZCRxwnua0/edit#slide=id.g16a6727905_0_8)</td>
 <td></td>
 <td>[點我跳轉](https://github.com/onlinereadbook/bookunity/issues/8)</td>
 <!------------------------------------------------------>
 </tr>
+
+
+
+
 <tr>
+
+
+<!------------------------------------------------------>
+<td>2016/10/07 19:30</td>
+<td>遊戲系統管理與ngui應用心得</td>
+<td>沈建佑(蛙皮)</td>
+<td></td>
+<td></td>
+<td>[點我跳轉](https://github.com/onlinereadbook/bookunity/issues/10)</td>
+<!------------------------------------------------------>
+</tr>
+
+
+<tr>
+
+
 <!------------------------------------------------------>
 <td>2016/10/14 20:00</td>
 <td>自製遊戲計時器應用於音樂遊戲範例</td>
-<td>蘇禧鑫</td>
+<td>蘇禧鑫 （阿星）</td>
 <td></td>
 <td></td>
 <td>[點我跳轉](https://github.com/onlinereadbook/bookunity/issues/9)</td>
