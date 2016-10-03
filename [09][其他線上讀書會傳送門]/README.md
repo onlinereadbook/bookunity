@@ -14,7 +14,7 @@
 </table></center>
 -->
 
-<center><table style="width:80%; text-align:center; vertical-align:middle;">
+<center><table style="width:80%; text-align:center; vertical-align:middle; border: 5px dotted #BACAC6;">
 <tr>
 <!------------------------------------------------------>
 <th style="width:20%;">								</th>
