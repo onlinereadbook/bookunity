@@ -26,6 +26,15 @@
 
 <tr>
 <!------------------------------------------------------>
+<td>迷你黑客松										</td>
+<td>[迷你黑客松](https://www.facebook.com/groups/1274976625880806/)			</td>
+<td>[mini-hackathon](https://github.com/onlinereadbook/mini-hackathon)		</td>
+<td>												</td>
+<!------------------------------------------------------>
+</tr>
+
+<tr>
+<!------------------------------------------------------>
 <td>ReactJS											</td>
 <td>[線上 ReactJS 讀書會](https://www.facebook.com/groups/906048196159262/)	</td>
 <td>[bookreactjs](https://github.com/onlinereadbook/bookreactjs)			</td>
@@ -116,6 +125,15 @@
 
 <tr>
 <!------------------------------------------------------>
+<td>VueJS											</td>
+<td>[線上 VueJS 讀書會](https://www.facebook.com/groups/616281401885574)		</td>
+<td>												</td>
+<td>												</td>
+<!------------------------------------------------------>
+</tr>
+
+<tr>
+<!------------------------------------------------------>
 <td>StrongLoop										</td>
 <td>[線上 StrongLoop 讀書會](https://www.facebook.com/groups/568032146690485/)</td>
 <td>												</td>
@@ -127,6 +145,15 @@
 <!------------------------------------------------------>
 <td>Internet of Things								</td>
 <td>[線上 IoT 讀書會](https://www.facebook.com/groups/842415582524882/)		</td>
+<td>												</td>
+<td>												</td>
+<!------------------------------------------------------>
+</tr>
+
+<tr>
+<!------------------------------------------------------>
+<td>數位美術											</td>
+<td>[線上數位美術讀書會](https://www.facebook.com/groups/670166459806094)		</td>
 <td>												</td>
 <td>												</td>
 <!------------------------------------------------------>
@@ -186,7 +213,7 @@ james 的社團 ES6 讀書會
 新北創立坊
 <br>[https://github.com/amazing-tutor/web-tutor-on-thursday](https://github.com/amazing-tutor/web-tutor-on-thursday)
 
-Soft & Share
+Soft & Share 精實讀書會
 <br>[https://softnshare.wordpress.com/](https://softnshare.wordpress.com/)
 <br>粉絲頁：[https://www.facebook.com/thinkandgrowth/](https://www.facebook.com/thinkandgrowth/)
 <br>社群：[https://www.facebook.com/groups/softnsharebookclub/](https://www.facebook.com/groups/softnsharebookclub/)
