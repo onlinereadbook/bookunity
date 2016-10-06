@@ -100,7 +100,7 @@
 <td>小林信行</td>
 <td>[Unity 製圖基礎 照明篇](http://download.randomexp.net/events/unity/20161005_UnityTaipei_LightingSeminar.pdf)</td>
 <td></td>
-<td></td>
+<td>[點我跳轉](https://github.com/onlinereadbook/bookunity/issues/13)</td>
 <!------------------------------------------------------>
 </tr>
 
