@@ -110,7 +110,7 @@
 <td>遊戲系統管理與ngui應用心得</td>
 <td>沈建佑(蛙皮)</td>
 <td></td>
-<td></td>
+<td>[Youtube](https://www.youtube.com/watch?v=5SzQLdI1bPU)</td>
 <td>[點我跳轉](https://github.com/onlinereadbook/bookunity/issues/10)</td>
 <!------------------------------------------------------>
 </tr>
