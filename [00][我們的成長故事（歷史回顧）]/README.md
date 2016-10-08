@@ -131,6 +131,20 @@
 <br>
 
 <!--
+## FIREBASE 基礎安裝說明
+> 日期：2016/08/11
+> <br>主講：Bryan Chen
+
+【投影片】firebase 基礎安裝投影片
+<br>[https://www.facebook.com/groups/238948643131478/303017456724596/](https://www.facebook.com/groups/238948643131478/303017456724596/)
+
+【影片】FIREBASE 基礎安裝說明
+<br>[https://youtu.be/11jt9U95ymU](https://youtu.be/11jt9U95ymU)
+
+<br>
+-->
+
+<!--
 ## 用 Nodejs 打造 FB 天氣預報機器人
 > 日期：2016/08/16
 > <br>主講：盧承億

@@ -46,7 +46,7 @@
 
 ## 線上 Unity 讀書會版主名單
 
-<center><table style="width:50%; text-align:center; vertical-align:middle;">
+<center><table style="width:50%; text-align:center; vertical-align:middle; border: 5px dotted #BACAC6;">
 <tr>
 <!------------------------------------------------------>
 <th colspan="2" align="center">線上 Unity 讀書會版主清單</th>

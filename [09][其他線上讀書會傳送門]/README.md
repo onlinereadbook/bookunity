@@ -14,13 +14,22 @@
 </table></center>
 -->
 
-<center><table style="width:80%; text-align:center; vertical-align:middle;">
+<center><table style="width:80%; text-align:center; vertical-align:middle; border: 5px dotted #BACAC6;">
 <tr>
 <!------------------------------------------------------>
 <th style="width:20%;">								</th>
 <th style="width:20%;">線上讀書會						</th>
 <th style="width:20%;">GitHub						</th>
 <th style="width:20%;">進行時間						</th>
+<!------------------------------------------------------>
+</tr>
+
+<tr>
+<!------------------------------------------------------>
+<td>迷你黑客松										</td>
+<td>[迷你黑客松](https://www.facebook.com/groups/1274976625880806/)			</td>
+<td>[mini-hackathon](https://github.com/onlinereadbook/mini-hackathon)		</td>
+<td>												</td>
 <!------------------------------------------------------>
 </tr>
 
@@ -107,8 +116,26 @@
 
 <tr>
 <!------------------------------------------------------>
+<td>ReactJS 實戰										</td>
+<td>[React 實戰讀書會](https://www.facebook.com/groups/1746983635561623/)</td>
+<td>												</td>
+<td>												</td>
+<!------------------------------------------------------>
+</tr>
+
+<tr>
+<!------------------------------------------------------>
 <td>Go												</td>
 <td>[線上 Go 讀書會](https://www.facebook.com/groups/1288435607857868/)		</td>
+<td>												</td>
+<td>												</td>
+<!------------------------------------------------------>
+</tr>
+
+<tr>
+<!------------------------------------------------------>
+<td>VueJS											</td>
+<td>[線上 VueJS 讀書會](https://www.facebook.com/groups/616281401885574)		</td>
 <td>												</td>
 <td>												</td>
 <!------------------------------------------------------>
@@ -127,6 +154,15 @@
 <!------------------------------------------------------>
 <td>Internet of Things								</td>
 <td>[線上 IoT 讀書會](https://www.facebook.com/groups/842415582524882/)		</td>
+<td>												</td>
+<td>												</td>
+<!------------------------------------------------------>
+</tr>
+
+<tr>
+<!------------------------------------------------------>
+<td>數位美術											</td>
+<td>[線上數位美術讀書會](https://www.facebook.com/groups/670166459806094)		</td>
 <td>												</td>
 <td>												</td>
 <!------------------------------------------------------>
@@ -186,7 +222,7 @@ james 的社團 ES6 讀書會
 新北創立坊
 <br>[https://github.com/amazing-tutor/web-tutor-on-thursday](https://github.com/amazing-tutor/web-tutor-on-thursday)
 
-Soft & Share
+Soft & Share 精實讀書會
 <br>[https://softnshare.wordpress.com/](https://softnshare.wordpress.com/)
 <br>粉絲頁：[https://www.facebook.com/thinkandgrowth/](https://www.facebook.com/thinkandgrowth/)
 <br>社群：[https://www.facebook.com/groups/softnsharebookclub/](https://www.facebook.com/groups/softnsharebookclub/)
