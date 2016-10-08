@@ -84,11 +84,11 @@
 
 <!------------------------------------------------------>
 <td>2016/10/07 19:30</td>
-<td>遊戲系統管理與ngui應用心得</td>
+  <td>遊戲系統管理與ngui應用心得</td>
 <td>沈建佑(蛙皮)</td>
 <td></td>
 <td></td>
-<td>[點我跳轉](https://github.com/onlinereadbook/bookunity/issues/10)</td>
+<td>[點我跳轉](https://github.com/onlinereadbook/bookunity/issues/11)</td>
 <!------------------------------------------------------>
 </tr>
 
