@@ -12,6 +12,57 @@
 </table></center>
 -->
 
+### 共筆遊戲製作討論
+
+
+<center><table style="width:90%; text-align:center; vertical-align:middle; border: 5px dotted #BACAC6;">
+
+<tr>
+<!------------------------------------------------------>
+<th style="width:16%;">時間							</th>
+<th style="width:16%;">主題							</th>
+<th style="width:16%;">主講							</th>
+<th style="width:16%;">投影片							</th>
+<th style="width:16%;">影片							</th>
+<th style="width:16%;">提問交流區						</th>
+<!------------------------------------------------------>
+</tr>
+
+<tr>
+<!------------------------------------------------------>
+<td>2016/09/30 23:00</td>
+<td>github request + fork 共筆</td>
+<td>默司大</td>
+<td></td>
+<td>[Facebook](https://www.facebook.com/readbook999/videos/1810950809147341/)</td>
+<td>[點我跳轉](https://github.com/onlinereadbook/bookunity/issues/12)</td>
+<!------------------------------------------------------>
+</tr>
+
+<tr>
+<!------------------------------------------------------>
+<td>2016/10/09 14:10								</td>
+<td>共筆遊戲製作討論									</td>
+<td>紀相安											</td>
+<td>												</td>
+<td>[Facebook](https://www.facebook.com/groups/1606498833013546/permalink/1654764391520323/)</td>
+<td>[點我跳轉](https://github.com/onlinereadbook/bookunity/issues/14)</td>
+<!------------------------------------------------------>
+</tr>
+
+<tr>
+<!------------------------------------------------------>
+<td>												</td>
+<td>												</td>
+<td>												</td>
+<td>												</td>
+<td>												</td>
+<td>												</td>
+<!------------------------------------------------------>
+</tr>
+
+</table></center>
+
 ### 主線任務
 
 <center><table style="width:90%; text-align:center; vertical-align:middle; border: 5px dotted #BACAC6;">
@@ -79,17 +130,6 @@
 <td>[Unity Shader](https://docs.google.com/presentation/d/1PG7e9a2y9YFi6wy5ljuNge_q1MYnXCe1_LZCRxwnua0/edit#slide=id.g16a6727905_0_8)</td>
 <td>[Youtube](https://www.youtube.com/watch?v=fhmf5PacfVg&feature=youtu.be)</td>
 <td>[點我跳轉](https://github.com/onlinereadbook/bookunity/issues/8)</td>
-<!------------------------------------------------------>
-</tr>
-
-<tr>
-<!------------------------------------------------------>
-<td>2016/09/30 23:00</td>
-<td>github request + fork 共筆</td>
-<td>默司大</td>
-<td></td>
-<td>[Facebook](https://www.facebook.com/readbook999/videos/1810950809147341/)</td>
-<td>[點我跳轉](https://github.com/onlinereadbook/bookunity/issues/12)</td>
 <!------------------------------------------------------>
 </tr>
 
@@ -200,6 +240,28 @@
 
 <tr>
 <!------------------------------------------------------>
+<td>2016/08/16</td>
+<td>用 Node.js 打造 FB 天氣機器人</td>
+<td>盧承億</td>
+<td>[FB 機器人](https://larry850806.github.io/weather/)</td>
+<td>[Youtube](https://youtu.be/c5gz5TxtEQk)</td>
+<td>[點我跳轉](https://github.com/onlinereadbook/booknodejs/issues/5)</td>
+<!------------------------------------------------------>
+</tr>
+
+<tr>
+<!------------------------------------------------------>
+<td>2016/09/06 19:30								</td>
+<td>Linux Shell 基礎									</td>
+<td>蔡秉文											</td>
+<td>[Linux Shell 基礎](http://www.slideshare.net/ssuser3e0b1d/basic-of-linux-shell-command)</td>
+<td>[Youtube](https://youtu.be/FBoYiq1pbD0)			</td>
+<td>[點我跳轉](https://github.com/onlinereadbook/booknodejs/issues/8)</td>
+<!------------------------------------------------------>
+</tr>
+
+<tr>
+<!------------------------------------------------------>
 <td>2016/09/21 20:00</td>
 <td>從 git 入門到團隊合作</td>
 <td>黃彥銘</td>
@@ -211,12 +273,23 @@
 
 <tr>
 <!------------------------------------------------------>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2016/10/09 09:10								</td>
+<td>用 katacoda 入門 Docker							</td>
+<td>Wolke Lin										</td>
+<td>												</td>
+<td>[FaceBook](https://www.facebook.com/groups/750311598438135/permalink/847523582050269/)</td>
+<td>												</td>
+<!------------------------------------------------------>
+</tr>
+
+<tr>
+<!------------------------------------------------------>
+<td>												</td>
+<td>												</td>
+<td>												</td>
+<td>												</td>
+<td>												</td>
+<td>												</td>
 <!------------------------------------------------------>
 </tr>
 
