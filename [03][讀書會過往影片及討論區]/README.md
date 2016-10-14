@@ -157,11 +157,22 @@
 
 <tr>
 <!------------------------------------------------------>
+<td>2016/10/14 19:30								</td>
+<td>Coroutine 用法分享（協程的概念）					</td>
+<td>張煌翔											</td>
+<td>												</td>
+<td>[Youtube](https://youtu.be/L-VhwCZS1Uc)			</td>
+<td>[點我跳轉](https://github.com/onlinereadbook/bookunity/issues/17)</td>
+<!------------------------------------------------------>
+</tr>
+
+<tr>
+<!------------------------------------------------------>
 <td>2016/10/18 19:30								</td>
 <td>AI 與 FSM（Finite-State Machine）經驗領域分享		</td>
 <td>Chris Lin										</td>
 <td>												</td>
-<td>												</td>
+<td>[（活動網址）](https://www.facebook.com/events/1431680963514109/)</td>
 <td>[點我跳轉](https://github.com/onlinereadbook/bookunity/issues/15)</td>
 <!------------------------------------------------------>
 </tr>
@@ -172,7 +183,7 @@
 <td>如何渡過提案初期業主的幻想戰爭						</td>
 <td>Tiger Guo										</td>
 <td>												</td>
-<td>												</td>
+<td>[（活動網址）](https://www.facebook.com/events/934502916661318/)</td>
 <td>[點我跳轉](https://github.com/onlinereadbook/bookunity/issues/10)</td>
 <!------------------------------------------------------>
 </tr>
@@ -180,22 +191,22 @@
 <tr>
 <!------------------------------------------------------>
 <td>2016/11/04 19:30								</td>
-<td>（題目開催中）									</td>
-<td>水之方舟 Mizu-Ark 大								</td>
+<td>盤靈古域網路協作經驗分享，還有實況與宣傳的 543		</td>
+<td>水狼												</td>
 <td>												</td>
-<td>												</td>
-<td>												</td>
+<td>[（活動網址）](https://www.facebook.com/events/1804881393129345/)</td>
+<td>[點我跳轉](https://github.com/onlinereadbook/bookunity/issues/19)</td>
 <!------------------------------------------------------>
 </tr>
 
 <tr>
 <!------------------------------------------------------>
-<td>2016/11/04 19:30								</td>
-<td>（主題未定）										</td>
+<td>2016/11/11 19:30								</td>
+<td>實戰領域經驗分享（暫定）							</td>
 <td>謝岱穎 講師										</td>
 <td>												</td>
-<td>												</td>
-<td>												</td>
+<td>[（活動網址）](https://www.facebook.com/events/883936675074234/)</td>
+<td>[點我跳轉](https://github.com/onlinereadbook/bookunity/issues/18)</td>
 <!------------------------------------------------------>
 </tr>
 
@@ -205,8 +216,30 @@
 <td>自製遊戲計時器應用於音樂遊戲範例					</td>
 <td>蘇禧鑫 （阿星）									</td>
 <td>												</td>
-<td>												</td>
+<td>[（活動網址）](https://www.facebook.com/events/896190013820816/)</td>
 <td>[點我跳轉](https://github.com/onlinereadbook/bookunity/issues/9)</td>
+<!------------------------------------------------------>
+</tr>
+
+<tr>
+<!------------------------------------------------------>
+<td>2016/12/02 19:30								</td>
+<td>Lighting with Shader							</td>
+<td>Akira Chen										</td>
+<td>												</td>
+<td>[（活動網址）](https://www.facebook.com/events/105507346587704/)</td>
+<td>[點我跳轉](https://github.com/onlinereadbook/bookunity/issues/16)</td>
+<!------------------------------------------------------>
+</tr>
+
+<tr>
+<!------------------------------------------------------>
+<td>2016/01/06 19:30								</td>
+<td>自己客製化編輯器									</td>
+<td>Gary Lin										</td>
+<td>												</td>
+<td>[（活動網址）](https://www.facebook.com/events/714655155349239/)</td>
+<td>[點我跳轉](https://github.com/onlinereadbook/bookunity/issues/20)</td>
 <!------------------------------------------------------>
 </tr>
 
