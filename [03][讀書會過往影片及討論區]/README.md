@@ -168,6 +168,17 @@
 
 <tr>
 <!------------------------------------------------------>
+<td>2016/10/16 19:30								</td>
+<td>PlayMaker 概念教學								</td>
+<td>米矢粒大											</td>
+<td>[PlayMaker](https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F1dH_nbgdVxoYo2UH86lDPQMHiJ2HMjMFrPkjnRlmlyZk%2Fedit%23slide%3Did.g1844b9fe46_0_1146&h=GAQFeDq4h)</td>
+<td>[（活動網址）](https://www.facebook.com/events/1790890107790610/)</td>
+<td>[點我跳轉](https://github.com/onlinereadbook/bookunity/issues/21)</td>
+<!------------------------------------------------------>
+</tr>
+
+<tr>
+<!------------------------------------------------------>
 <td>2016/10/18 19:30								</td>
 <td>AI 與 FSM（Finite-State Machine）經驗領域分享		</td>
 <td>Chris Lin										</td>
