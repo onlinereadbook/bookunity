@@ -177,16 +177,16 @@
 <!------------------------------------------------------>
 </tr>
 
+<!--
 <tr>
-<!------------------------------------------------------>
 <td>2016/10/18 19:30								</td>
-<td>AI 與 FSM（Finite-State Machine）經驗領域分享		</td>
-<td>Chris Lin										</td>
+<td>nodejs with 7688 & pi 經驗領域					</td>
+<td>Lamma 大											</td>
+<td>[nodejs with 7688 & pi](https://docs.google.com/presentation/d/1w6J85SOv01o8ZuZLuoNAW8Wy-BMkIIjbjk5GYOnRC0w/edit)</td>
 <td>												</td>
-<td>[（活動網址）](https://www.facebook.com/events/1431680963514109/)</td>
-<td>[點我跳轉](https://github.com/onlinereadbook/bookunity/issues/15)</td>
-<!------------------------------------------------------>
+<td>												</td>
 </tr>
+-->
 
 <tr>
 <!------------------------------------------------------>
@@ -218,6 +218,17 @@
 <td>												</td>
 <td>[（活動網址）](https://www.facebook.com/events/883936675074234/)</td>
 <td>[點我跳轉](https://github.com/onlinereadbook/bookunity/issues/18)</td>
+<!------------------------------------------------------>
+</tr>
+
+<tr>
+<!------------------------------------------------------>
+<td>2016/11/18 19:30								</td>
+<td>AI 與 FSM（Finite-State Machine）經驗領域分享		</td>
+<td>Chris Lin										</td>
+<td>												</td>
+<td>[（活動網址）](https://www.facebook.com/events/1431680963514109/)</td>
+<td>[點我跳轉](https://github.com/onlinereadbook/bookunity/issues/15)</td>
 <!------------------------------------------------------>
 </tr>
 
@@ -334,6 +345,28 @@
 <td>												</td>
 <td>[FaceBook](https://www.facebook.com/groups/750311598438135/permalink/847523582050269/)</td>
 <td>												</td>
+<!------------------------------------------------------>
+</tr>
+
+<tr>
+<!------------------------------------------------------>
+<td>2016/10/20 20:30								</td>
+<td>好的 Editor 帶你上天堂							</td>
+<td>默司大											</td>
+<td>												</td>
+<td>[Facebook](https://www.facebook.com/groups/207139586323090/permalink/324049674632080/?match=57SAIOebuCDlroks55u4LOWuiSzntIA%3D)</td>
+<td>[點我跳轉](https://github.com/mosluce/vscode-quick-start)</td>
+<!------------------------------------------------------>
+</tr>
+
+<tr>
+<!------------------------------------------------------>
+<td>2016/10/20 20:30								</td>
+<td>好的 Editor 帶你上天堂 Part 2						</td>
+<td>默司大											</td>
+<td>												</td>
+<td>[（活動網址）](https://www.facebook.com/events/144723342658848/)</td>
+<td>[點我跳轉](https://github.com/mosluce/vscode-quick-start)</td>
 <!------------------------------------------------------>
 </tr>
 
