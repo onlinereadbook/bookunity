@@ -365,7 +365,7 @@
 <td>好的 Editor 帶你上天堂 Part 2						</td>
 <td>默司大											</td>
 <td>												</td>
-<td>[（活動網址）](https://www.facebook.com/events/144723342658848/)</td>
+<td>[Facebook](https://www.facebook.com/readbook999/videos/1821206701455085/)</td>
 <td>[點我跳轉](https://github.com/mosluce/vscode-quick-start)</td>
 <!------------------------------------------------------>
 </tr>
