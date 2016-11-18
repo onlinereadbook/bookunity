@@ -173,6 +173,7 @@
 <td>米矢粒大											</td>
 <td>[PlayMaker](https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F1dH_nbgdVxoYo2UH86lDPQMHiJ2HMjMFrPkjnRlmlyZk%2Fedit%23slide%3Did.g1844b9fe46_0_1146&h=GAQFeDq4h)</td>
 <td>[（活動網址）](https://www.facebook.com/events/1790890107790610/)</td>
+<!--[Youtube](https://youtu.be/SsR-0U2aWBU)-->
 <td>[點我跳轉](https://github.com/onlinereadbook/bookunity/issues/21)</td>
 <!------------------------------------------------------>
 </tr>
@@ -205,7 +206,7 @@
 <td>盤靈古域網路協作經驗分享，還有實況與宣傳的 543		</td>
 <td>水狼												</td>
 <td>												</td>
-<td>[（活動網址）](https://www.facebook.com/events/1804881393129345/)</td>
+<td>[YouTube](https://www.youtube.com/watch?v=-K_v4F6_BH)</td>
 <td>[點我跳轉](https://github.com/onlinereadbook/bookunity/issues/19)</td>
 <!------------------------------------------------------>
 </tr>
@@ -216,7 +217,7 @@
 <td>實戰領域經驗分享（暫定）							</td>
 <td>謝岱穎 講師										</td>
 <td>												</td>
-<td>[（活動網址）](https://www.facebook.com/events/883936675074234/)</td>
+<td>[YouTube](https://youtu.be/tJ0ROQj-vGE)</td>
 <td>[點我跳轉](https://github.com/onlinereadbook/bookunity/issues/18)</td>
 <!------------------------------------------------------>
 </tr>
@@ -224,6 +225,17 @@
 <tr>
 <!------------------------------------------------------>
 <td>2016/11/18 19:30								</td>
+<td>JWT												</td>
+<td>												</td>
+<td>												</td>
+<td>[（活動網址）]()</td>
+<td>[點我跳轉]()</td>
+<!------------------------------------------------------>
+</tr>
+
+<tr>
+<!------------------------------------------------------>
+<td>2016/12/09 19:30								</td>
 <td>AI 與 FSM（Finite-State Machine）經驗領域分享		</td>
 <td>Chris Lin										</td>
 <td>												</td>
