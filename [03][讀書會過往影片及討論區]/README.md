@@ -172,8 +172,7 @@
 <td>PlayMaker 概念教學								</td>
 <td>米矢粒大											</td>
 <td>[PlayMaker](https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F1dH_nbgdVxoYo2UH86lDPQMHiJ2HMjMFrPkjnRlmlyZk%2Fedit%23slide%3Did.g1844b9fe46_0_1146&h=GAQFeDq4h)</td>
-<td>[（活動網址）](https://www.facebook.com/events/1790890107790610/)</td>
-<!--[Youtube](https://youtu.be/SsR-0U2aWBU)-->
+<td>[Youtube](https://www.youtube.com/watch?v=l9_ykbhcfG8)</td>
 <td>[點我跳轉](https://github.com/onlinereadbook/bookunity/issues/21)</td>
 <!------------------------------------------------------>
 </tr>
