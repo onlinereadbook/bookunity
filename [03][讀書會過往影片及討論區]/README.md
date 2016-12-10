@@ -1,6 +1,6 @@
 ## [03][讀書會過往影片及討論區]
+12 月份線上讀書會預訂活動連結：[【點我跳轉】](https://docs.google.com/spreadsheets/d/1JHOqcqAwyqZpddzft0G2J_zj0fl5UU6cFc3XajuSLGQ/)
 
-<br>
 <!--
 <center><table style="width:100%; text-align:center; vertical-align:middle;">
 <tr>
@@ -13,7 +13,6 @@
 -->
 
 ### 共筆遊戲製作討論
-
 
 <center><table style="width:90%; text-align:center; vertical-align:middle; border: 5px dotted #BACAC6;">
 
@@ -80,6 +79,12 @@
 
 <tr>
 <!------------------------------------------------------>
+<th style="width:16%;" colspan="6">2016 九月份		</th>
+<!------------------------------------------------------>
+</tr>
+
+<tr>
+<!------------------------------------------------------>
 <td>2016/09/09 20:00								</td>
 <td>Unity Platformer 2D: Character Animations		</td>
 <td>王思元											</td>
@@ -133,6 +138,12 @@
 <!------------------------------------------------------>
 </tr>
 
+<tr>
+<!------------------------------------------------------>
+<th style="width:16%;" colspan="6">2016 十月份		</th>
+<!------------------------------------------------------>
+</tr>
+
 <!--
 <tr>
 <td>2016/10/06 14:00								</td>
@@ -172,8 +183,7 @@
 <td>PlayMaker 概念教學								</td>
 <td>米矢粒大											</td>
 <td>[PlayMaker](https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F1dH_nbgdVxoYo2UH86lDPQMHiJ2HMjMFrPkjnRlmlyZk%2Fedit%23slide%3Did.g1844b9fe46_0_1146&h=GAQFeDq4h)</td>
-<td>[（活動網址）](https://www.facebook.com/events/1790890107790610/)</td>
-<!--[Youtube](https://youtu.be/SsR-0U2aWBU)-->
+<td>[Youtube](https://youtu.be/l9_ykbhcfG8)</td>
 <td>[點我跳轉](https://github.com/onlinereadbook/bookunity/issues/21)</td>
 <!------------------------------------------------------>
 </tr>
@@ -195,8 +205,14 @@
 <td>如何渡過提案初期業主的幻想戰爭						</td>
 <td>Tiger Guo										</td>
 <td>												</td>
-<td>[（活動網址）](https://www.facebook.com/events/934502916661318/)</td>
+<td>[Youtube](https://youtu.be/kURR_31f5Fc)</td>
 <td>[點我跳轉](https://github.com/onlinereadbook/bookunity/issues/10)</td>
+<!------------------------------------------------------>
+</tr>
+
+<tr>
+<!------------------------------------------------------>
+<th style="width:16%;" colspan="6">2016 十一月份		</th>
 <!------------------------------------------------------>
 </tr>
 
@@ -214,7 +230,7 @@
 <tr>
 <!------------------------------------------------------>
 <td>2016/11/11 19:30								</td>
-<td>實戰領域經驗分享（暫定）							</td>
+<td>實戰領域經驗分享									</td>
 <td>謝岱穎 講師										</td>
 <td>												</td>
 <td>[YouTube](https://youtu.be/tJ0ROQj-vGE)</td>
@@ -222,43 +238,49 @@
 <!------------------------------------------------------>
 </tr>
 
+<!--
 <tr>
-<!------------------------------------------------------>
-<td>2016/11/18 19:30								</td>
-<td>JWT												</td>
-<td>												</td>
-<td>												</td>
-<td>[（活動網址）]()</td>
-<td>[點我跳轉]()</td>
-<!------------------------------------------------------>
-</tr>
-
-<tr>
-<!------------------------------------------------------>
-<td>2016/12/09 19:30								</td>
-<td>AI 與 FSM（Finite-State Machine）經驗領域分享		</td>
-<td>Chris Lin										</td>
-<td>												</td>
-<td>[（活動網址）](https://www.facebook.com/events/1431680963514109/)</td>
-<td>[點我跳轉](https://github.com/onlinereadbook/bookunity/issues/15)</td>
-<!------------------------------------------------------>
-</tr>
-
-<tr>
-<!------------------------------------------------------>
 <td>2016/11/25 20:30								</td>
 <td>自製遊戲計時器應用於音樂遊戲範例					</td>
 <td>蘇禧鑫 （阿星）									</td>
 <td>												</td>
 <td>[（活動網址）](https://www.facebook.com/events/896190013820816/)</td>
 <td>[點我跳轉](https://github.com/onlinereadbook/bookunity/issues/9)</td>
+</tr>
+-->
+
+<tr>
+<!------------------------------------------------------>
+<th style="width:16%;" colspan="6">2016 十二月份		</th>
+<!------------------------------------------------------>
+</tr>
+
+<!--
+<tr>
+<td>2016/12/02 19:30								</td>
+<td>MQTT											</td>
+<td>蘇維宗											</td>
+<td>												</td>
+<td>[（活動網址）](https://www.facebook.com/groups/842415582524882/)</td>
+<td>[點我跳轉]()</td>
+</tr>
+-->
+
+<tr>
+<!------------------------------------------------------>
+<td>2016/12/09 20:20								</td>
+<td>AI 與 FSM（Finite-State Machine）經驗領域分享		</td>
+<td>Chris Lin										</td>
+<td>[（範例下載）](https://drive.google.com/file/d/0B5tZkSgvNqmBeVB0R3ItMHBzZWs/view)</td>
+<td>[Youtube](https://www.youtube.com/watch?v=pd7_4-Lj2ro)</td>
+<td>[點我跳轉](https://github.com/onlinereadbook/bookunity/issues/15)</td>
 <!------------------------------------------------------>
 </tr>
 
 <tr>
 <!------------------------------------------------------>
-<td>2016/12/02 19:30								</td>
-<td>Lighting with Shader							</td>
+<td>2016/12/30 19:30								</td>
+<td>攻略 lighting with shader						</td>
 <td>Akira Chen										</td>
 <td>												</td>
 <td>[（活動網址）](https://www.facebook.com/events/105507346587704/)</td>
@@ -268,7 +290,13 @@
 
 <tr>
 <!------------------------------------------------------>
-<td>2016/01/06 19:30								</td>
+<th style="width:16%;" colspan="6">2017 一月份		</th>
+<!------------------------------------------------------>
+</tr>
+
+<tr>
+<!------------------------------------------------------>
+<td>2017/01/06 19:30								</td>
 <td>自己客製化編輯器									</td>
 <td>Gary Lin										</td>
 <td>												</td>
@@ -366,19 +394,31 @@
 <td>好的 Editor 帶你上天堂							</td>
 <td>默司大											</td>
 <td>												</td>
-<td>[Facebook](https://www.facebook.com/groups/207139586323090/permalink/324049674632080/?match=57SAIOebuCDlroks55u4LOWuiSzntIA%3D)</td>
+<td>[Facebook](https://www.facebook.com/readbook999/videos/1820498281525927/)</td>
 <td>[點我跳轉](https://github.com/mosluce/vscode-quick-start)</td>
 <!------------------------------------------------------>
 </tr>
 
 <tr>
 <!------------------------------------------------------>
-<td>2016/10/20 20:30								</td>
+<td>2016/10/21 20:30								</td>
 <td>好的 Editor 帶你上天堂 Part 2						</td>
 <td>默司大											</td>
 <td>												</td>
 <td>[Facebook](https://www.facebook.com/readbook999/videos/1821206701455085/)</td>
 <td>[點我跳轉](https://github.com/mosluce/vscode-quick-start)</td>
+<!------------------------------------------------------>
+</tr>
+
+
+<tr>
+<!------------------------------------------------------>
+<td>2017/01/10 19:30</td>
+<td>git 入門到深入</td>
+<td>佑竹大</td>
+<td></td>
+<td>[活動網站](https://www.facebook.com/events/108498212975578/)</td>
+<td>[點我跳轉](https://github.com/onlinereadbook/bookunity/issues/5)</td>
 <!------------------------------------------------------>
 </tr>
 
