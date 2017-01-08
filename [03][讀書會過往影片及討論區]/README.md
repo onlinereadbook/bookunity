@@ -282,8 +282,8 @@
 <td>2016/12/30 19:30								</td>
 <td>攻略 lighting with shader						</td>
 <td>Akira Chen										</td>
-<td>												</td>
-<td>[（活動網址）](https://www.facebook.com/events/105507346587704/)</td>
+<td>[（範例下載）](https://1drv.ms/u/s!An8aMtlzY-v7qfAgHW6GsjuVMOjRrg)<br>[投影片下載](https://1drv.ms/p/s!An8aMtlzY-v7qfAZHEDiCaT3XHpN4A)</td>
+<td>[Youtube](https://youtu.be/-wipMQWBiQk)</td>
 <td>[點我跳轉](https://github.com/onlinereadbook/bookunity/issues/16)</td>
 <!------------------------------------------------------>
 </tr>
@@ -423,9 +423,20 @@
 
 <tr>
 <!------------------------------------------------------>
-<td>2017/01/10 19:30</td>
-<td>git 入門到深入</td>
-<td>佑竹大</td>
+<td>2017/01/06 19:30								</td>
+<td>客製化編輯器										</td>
+<td>Gary Lin 大大									</td>
+<td>												</td>
+<td>[Youtube](https://youtu.be/n6BaBo0Deec)			</td>
+<td>[點我跳轉](https://github.com/onlinereadbook/bookunity/issues/24)</td>
+<!------------------------------------------------------>
+</tr>
+
+<tr>
+<!------------------------------------------------------>
+<td>2017/01/10 19:30								</td>
+<td>git 入門到深入									</td>
+<td>佑竹大											</td>
 <td></td>
 <td>[活動網站](https://www.facebook.com/events/108498212975578/)</td>
 <td>[點我跳轉](https://github.com/onlinereadbook/bookunity/issues/5)</td>
